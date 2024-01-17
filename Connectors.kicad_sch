@@ -374,6 +374,16 @@
     (uuid fb2a0500-b84c-4586-a0c1-d648a73194e6)
   )
 
+  (rectangle (start 101.6 63.5) (end 190.5 138.43)
+    (stroke (width 0) (type default))
+    (fill (type none))
+    (uuid 598f541c-7232-40f7-8a09-345d47a22c3c)
+  )
+
+  (text "Connectors" (at 100.33 62.23 0)
+    (effects (font (size 1.27 1.27) (thickness 0.254) bold) (justify left bottom))
+    (uuid 805d6c06-4271-4ace-96b6-48633f60cc5b)
+  )
   (text "ICSP" (at 167.64 127 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid a880219f-765f-4a44-890e-a2ce5aa3476c)
