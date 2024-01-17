@@ -1,4 +1,4 @@
-23188715188991497
+23197242531956029
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -52037,6 +52037,13 @@ SMD SMT ceramic resonator filter filter hand-soldering
 0
 3
 3
+DS1337S_
+SOIC127P600X175-8N
+
+
+0
+8
+8
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
@@ -61732,6 +61739,13 @@ MajedDev
 0
 0
 0
+Library2
+SOIC127P600X175-8N
+
+
+0
+8
+8
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -81584,6 +81598,27 @@ Potentiometer vertical Vishay T73YP
 0
 3
 3
+Project_Libraries
+IC_RV-3129-C3
+
+
+0
+10
+10
+Project_Libraries
+QFP80P900X900X120-32N
+
+
+0
+32
+32
+Project_Libraries
+SOIC127P600X175-8N
+
+
+0
+8
+8
 RF
 Skyworks_SKY13575_639LF
 http://www.skyworksinc.com/uploads/documents/SKY13575_639LF_203270D.pdf
