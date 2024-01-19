@@ -1,4 +1,4 @@
-23198948094052424
+23204065050915773
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -61747,6 +61747,20 @@ MajedDev2
 0
 0
 Library2
+MajedDevNew
+
+
+0
+0
+0
+Library2
+MajedDevNewLogo
+
+
+0
+0
+0
+Library2
 SOIC127P600X175-8N
 
 
@@ -81612,6 +81626,13 @@ IC_RV-3129-C3
 0
 10
 10
+Project_Libraries
+MajedDevNewLogo
+
+
+0
+0
+0
 Project_Libraries
 QFP80P900X900X120-32N
 
