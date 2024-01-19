@@ -2554,31 +2554,6 @@
     )
   )
 
-  (symbol (lib_id "power:PWR_FLAG") (at 241.3 25.4 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid a255c8ad-54d6-40aa-a27b-4dfd40cfd897)
-    (property "Reference" "#FLG02" (at 241.3 23.495 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "PWR_FLAG" (at 241.3 20.32 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "" (at 241.3 25.4 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 241.3 25.4 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 45449eeb-dbfe-4d07-92f0-8fc298ea50c4))
-    (instances
-      (project "Dattalogger_Board"
-        (path "/a55893b1-5494-496a-9815-de4061e18fde"
-          (reference "#FLG02") (unit 1)
-        )
-      )
-    )
-  )
-
   (symbol (lib_id "DS1337S_:DS1337S_") (at 62.23 52.07 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a3fcd78c-d274-403d-bc1d-ba085dda85d8)
