@@ -1594,6 +1594,13 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid cb972261-4e65-407b-b6f3-b0dbe41a0216)
   )
+<<<<<<< HEAD
+=======
+  (label "Vcc" (at 261.62 27.94 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid cee6eab5-d204-4ddf-bcd4-1defd74edc14)
+  )
+>>>>>>> 2layer
   (label "D3" (at 229.87 130.81 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid d2703715-be66-4c20-ba02-19dd45b6ac92)

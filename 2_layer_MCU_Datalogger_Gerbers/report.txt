@@ -1,0 +1,33 @@
+Plotted to 'C:\Users\majed\OneDrive\Desktop\Electronics-RF\~Projects\Dattalogger_Board\Datalogger_Gerbers\Dattalogger_Board-F_Cu.gtl'.
+Plotted to 'C:\Users\majed\OneDrive\Desktop\Electronics-RF\~Projects\Dattalogger_Board\Datalogger_Gerbers\Dattalogger_Board-B_Cu.gbl'.
+Plotted to 'C:\Users\majed\OneDrive\Desktop\Electronics-RF\~Projects\Dattalogger_Board\Datalogger_Gerbers\Dattalogger_Board-F_Paste.gtp'.
+Plotted to 'C:\Users\majed\OneDrive\Desktop\Electronics-RF\~Projects\Dattalogger_Board\Datalogger_Gerbers\Dattalogger_Board-B_Paste.gbp'.
+Plotted to 'C:\Users\majed\OneDrive\Desktop\Electronics-RF\~Projects\Dattalogger_Board\Datalogger_Gerbers\Dattalogger_Board-F_Silkscreen.gto'.
+Plotted to 'C:\Users\majed\OneDrive\Desktop\Electronics-RF\~Projects\Dattalogger_Board\Datalogger_Gerbers\Dattalogger_Board-B_Silkscreen.gbo'.
+Plotted to 'C:\Users\majed\OneDrive\Desktop\Electronics-RF\~Projects\Dattalogger_Board\Datalogger_Gerbers\Dattalogger_Board-F_Mask.gts'.
+Plotted to 'C:\Users\majed\OneDrive\Desktop\Electronics-RF\~Projects\Dattalogger_Board\Datalogger_Gerbers\Dattalogger_Board-B_Mask.gbs'.
+Plotted to 'C:\Users\majed\OneDrive\Desktop\Electronics-RF\~Projects\Dattalogger_Board\Datalogger_Gerbers\Dattalogger_Board-Edge_Cuts.gm1'.
+Created Gerber job file 'C:\Users\majed\OneDrive\Desktop\Electronics-RF\~Projects\Dattalogger_Board\Datalogger_Gerbers\Dattalogger_Board-job.gbrjob'.
+Plotted to 'C:\Users\majed\OneDrive\Desktop\Electronics-RF\~Projects\Dattalogger_Board\Datalogger_Gerbers\Dattalogger_Board-F_Cu.gtl'.
+Plotted to 'C:\Users\majed\OneDrive\Desktop\Electronics-RF\~Projects\Dattalogger_Board\Datalogger_Gerbers\Dattalogger_Board-B_Cu.gbl'.
+Plotted to 'C:\Users\majed\OneDrive\Desktop\Electronics-RF\~Projects\Dattalogger_Board\Datalogger_Gerbers\Dattalogger_Board-F_Paste.gtp'.
+Plotted to 'C:\Users\majed\OneDrive\Desktop\Electronics-RF\~Projects\Dattalogger_Board\Datalogger_Gerbers\Dattalogger_Board-B_Paste.gbp'.
+Plotted to 'C:\Users\majed\OneDrive\Desktop\Electronics-RF\~Projects\Dattalogger_Board\Datalogger_Gerbers\Dattalogger_Board-F_Silkscreen.gto'.
+Plotted to 'C:\Users\majed\OneDrive\Desktop\Electronics-RF\~Projects\Dattalogger_Board\Datalogger_Gerbers\Dattalogger_Board-B_Silkscreen.gbo'.
+Plotted to 'C:\Users\majed\OneDrive\Desktop\Electronics-RF\~Projects\Dattalogger_Board\Datalogger_Gerbers\Dattalogger_Board-F_Mask.gts'.
+Plotted to 'C:\Users\majed\OneDrive\Desktop\Electronics-RF\~Projects\Dattalogger_Board\Datalogger_Gerbers\Dattalogger_Board-B_Mask.gbs'.
+Plotted to 'C:\Users\majed\OneDrive\Desktop\Electronics-RF\~Projects\Dattalogger_Board\Datalogger_Gerbers\Dattalogger_Board-Edge_Cuts.gm1'.
+Created Gerber job file 'C:\Users\majed\OneDrive\Desktop\Electronics-RF\~Projects\Dattalogger_Board\Datalogger_Gerbers\Dattalogger_Board-job.gbrjob'.
+Plotted to 'C:\Users\majed\OneDrive\Desktop\Electronics-RF\~Projects\Dattalogger_Board\Datalogger_Gerbers\Dattalogger_Board-F_Cu.gtl'.
+Plotted to 'C:\Users\majed\OneDrive\Desktop\Electronics-RF\~Projects\Dattalogger_Board\Datalogger_Gerbers\Dattalogger_Board-B_Cu.gbl'.
+Plotted to 'C:\Users\majed\OneDrive\Desktop\Electronics-RF\~Projects\Dattalogger_Board\Datalogger_Gerbers\Dattalogger_Board-F_Paste.gtp'.
+Plotted to 'C:\Users\majed\OneDrive\Desktop\Electronics-RF\~Projects\Dattalogger_Board\Datalogger_Gerbers\Dattalogger_Board-B_Paste.gbp'.
+Plotted to 'C:\Users\majed\OneDrive\Desktop\Electronics-RF\~Projects\Dattalogger_Board\Datalogger_Gerbers\Dattalogger_Board-F_Silkscreen.gto'.
+Plotted to 'C:\Users\majed\OneDrive\Desktop\Electronics-RF\~Projects\Dattalogger_Board\Datalogger_Gerbers\Dattalogger_Board-B_Silkscreen.gbo'.
+Plotted to 'C:\Users\majed\OneDrive\Desktop\Electronics-RF\~Projects\Dattalogger_Board\Datalogger_Gerbers\Dattalogger_Board-F_Mask.gts'.
+Plotted to 'C:\Users\majed\OneDrive\Desktop\Electronics-RF\~Projects\Dattalogger_Board\Datalogger_Gerbers\Dattalogger_Board-B_Mask.gbs'.
+Plotted to 'C:\Users\majed\OneDrive\Desktop\Electronics-RF\~Projects\Dattalogger_Board\Datalogger_Gerbers\Dattalogger_Board-Edge_Cuts.gm1'.
+Created Gerber job file 'C:\Users\majed\OneDrive\Desktop\Electronics-RF\~Projects\Dattalogger_Board\Datalogger_Gerbers\Dattalogger_Board-job.gbrjob'.
+Info: Done.
+Info: Done.
+Info: Done.
