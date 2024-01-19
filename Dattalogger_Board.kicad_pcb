@@ -98,7 +98,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "Datalogger_Gerbers/")
+      (outputdirectory "4_layer_MCU_Datalogger_Gerbers/")
     )
   )
 
@@ -1946,7 +1946,7 @@
 
   (footprint "Library2:MajedDev" (layer "B.Cu")
     (tstamp 0e5a5b18-5e90-4c54-b3a5-0e1b2d5014c6)
-    (at 161.925 74.93 180)
+    (at 161.29 76.2 180)
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "Majed" (at 0 0) (layer "B.SilkS") hide
         (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
