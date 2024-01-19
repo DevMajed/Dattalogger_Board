@@ -388,7 +388,7 @@
       (net 1 "GND") (pinfunction "WP") (pintype "input") (tstamp 8eab1054-59c8-4b4b-9f50-79efefdfa1c1))
     (pad "8" smd roundrect (at 3.6 -1.905) (size 1.6 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 2 "/Vcc") (pinfunction "VCC") (pintype "power_in") (tstamp af0f80d6-141c-4a2a-993a-a37e126be2b3))
-    (model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-8_5.23x5.23mm_P1.27mm.wrl"
+    (model ":KICAD7_3DMODEL_DIR:Package_SO.3dshapes/SO-8_3.9x4.9mm_P1.27mm.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -583,6 +583,11 @@
       (net 11 "/TX") (pinfunction "PD1") (pintype "bidirectional") (solder_mask_margin 0.102) (tstamp abf245e5-fe85-43a8-b62a-42576116e42e))
     (pad "32" smd roundrect (at -2.8 -4.17) (size 0.55 1.47) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.18)
       (net 15 "/D2") (pinfunction "PD2") (pintype "bidirectional") (solder_mask_margin 0.102) (tstamp 8bddd56c-8ded-4ed8-a96a-0bf70f79c9df))
+    (model ":KICAD7_3DMODEL_DIR:Package_QFP.3dshapes/TQFP-32_7x7mm_P0.8mm.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "MountingHole:MountingHole_2.1mm" (layer "F.Cu")
@@ -1459,7 +1464,7 @@
       (net 1 "GND") (pinfunction "WP") (pintype "input") (tstamp 050d349f-7470-45fc-b799-48709879417c))
     (pad "8" smd roundrect (at 3.6 -1.905) (size 1.6 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 2 "/Vcc") (pinfunction "VCC") (pintype "power_in") (tstamp 4c3c7f8f-831a-49e1-8431-eabd72b62b56))
-    (model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-8_5.23x5.23mm_P1.27mm.wrl"
+    (model ":KICAD7_3DMODEL_DIR:Package_SO.3dshapes/SO-8_3.9x4.9mm_P1.27mm.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1600,7 +1605,7 @@
       (net 3 "Net-(U4-PB6)") (pintype "passive") (tstamp ce3ffb4f-6d16-4704-8987-d69c29ca24ce))
     (pad "2" smd rect (at 2.6 0) (size 3.5 2.4) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 4 "Net-(U4-PB7)") (pintype "passive") (tstamp fd344491-0977-4fca-b9a8-6e24fd594bf5))
-    (model "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_5032-2Pin_5.0x3.2mm_HandSoldering.wrl"
+    (model ":KICAD7_3DMODEL_DIR:Crystal.3dshapes/Crystal_SMD_0603-4Pin_6.0x3.5mm.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1634,7 +1639,7 @@
         (effects (font (size 0.8 0.8) (thickness 0.15) bold))
       (tstamp ce58c495-c7f3-4960-9c29-7ef17924adb5)
     )
-    (fp_text value "32.768 KHz" (at 0.635 2.54 270) (layer "F.SilkS")
+    (fp_text value "32.768 KHz" (at 0.75842 2.57418 270) (layer "F.SilkS")
         (effects (font (size 0.8 0.8) (thickness 0.1)))
       (tstamp e9ff8adb-011d-4031-96b7-16d4920bbd36)
     )
@@ -1686,7 +1691,7 @@
       (net 25 "Net-(U2-X2)") (pintype "passive") (tstamp 08a8a239-befe-4a72-90ee-61f074365251))
     (pad "2" smd rect (at 2.6 0 90) (size 3.5 2.4) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 24 "Net-(U2-X1)") (pintype "passive") (tstamp fdbf9dc2-3f07-47b8-8de3-d4afe805055d))
-    (model "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_5032-2Pin_5.0x3.2mm_HandSoldering.wrl"
+    (model ":KICAD7_3DMODEL_DIR:Crystal.3dshapes/Crystal_SMD_0603-4Pin_6.0x3.5mm.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1871,6 +1876,11 @@
       (net 23 "Net-(U2-SQW{slash}~INT)") (pinfunction "SQW/~INT") (pintype "output") (solder_mask_margin 0.102) (tstamp 65d84d39-aac5-4640-aff0-e3b2633c9c56))
     (pad "8" smd roundrect (at 2.475 -1.905) (size 1.97 0.59) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.07)
       (net 2 "/Vcc") (pinfunction "VCC") (pintype "power_in") (solder_mask_margin 0.102) (tstamp 15512c50-3722-4dab-bc1b-4faba2b651a4))
+    (model ":KICAD7_3DMODEL_DIR:Package_SO.3dshapes/SO-8_3.9x4.9mm_P1.27mm.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Capacitor_SMD:C_0805_2012Metric" (layer "F.Cu")
