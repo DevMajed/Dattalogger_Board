@@ -66,5 +66,6 @@ Power Layer  : Ln1.Cu with Copper fills
 Ground Layer : Bottom B.Cu with Copper fills
 
 ## BOM : Bill of materials
-![image](https://github.com/DevMajed/Dattalogger_Board/assets/66625688/7aab2fb6-d9c1-4db3-83a2-ff03075fc0a7)
+
+![image](https://github.com/DevMajed/Dattalogger_Board/assets/66625688/2f44ee0a-4d6d-473e-a72a-a37221a7bf3b)
 
