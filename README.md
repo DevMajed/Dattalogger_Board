@@ -15,7 +15,7 @@ The project incorporates features such as external EEPROM memory (24LC1025), a r
 
 
 ## Block Diagram / Circuit Schematic :
-<img width="610" alt="Schematic" src="https://github.com/DevMajed/Dattalogger_Board/assets/66625688/9fec3444-7fc9-431f-9d06-08b488d1c6a3">
+<img width="610" alt="Schematic" src="https://github.com/DevMajed/Dattalogger_Board/assets/66625688/9fec3444-7fc9-431f-9d06-08b488d1c6a3">  
 
 
 **ATmega328-AU:**  
