@@ -57,3 +57,10 @@ Connectors: UART, ICSP, I2C, GPIO
 Power Supply: 5V battery "MCU 1.8V to 5.5V, EEPROM and DS1337S 2.3V to 5.5V. Oscillators 5V."  
 Communication Protocols: I2C, UART  
 Programming Language: C/C++  
+
+## PCB Specifications:  
+Sginals Track width : 0.25 mm  
+VCC/GND Track width : 0.35 mm  
+Signal Layers: Top F.Cu + Ln2.Cu  
+Power Layer: Ln1.Cu with Copper fills  
+Ground Layer: Bottom B.Cu with Copper fills
