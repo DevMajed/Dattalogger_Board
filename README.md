@@ -66,24 +66,5 @@ Power Layer  : Ln1.Cu with Copper fills
 Ground Layer : Bottom B.Cu with Copper fills
 
 ## BOM : Bill of materials
-
-#	Reference	Qty	Value	Footprint
-1	BT1	1	Battery	Connector_PinHeader_2.54mm:PinHeader_2x01_P2.54mm_Vertical
-2	C1, C4	2	0.1uF	Capacitor_SMD:C_0805_2012Metric
-3	C2, C3	2	22pF	Capacitor_SMD:C_0805_2012Metric
-4	C5	1	100nF	Capacitor_SMD:C_0805_2012Metric
-5	D1, D2	2	LED	LED_SMD:LED_0805_2012Metric
-6	H1, H2, H3, H4	4	MountingHole	MountingHole:MountingHole_2.1mm
-7	J1, J2	2	Conn_01x04_Pin	Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical
-8	J3	1	Conn_02x03_Odd_Even	Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical
-9	J4	1	Conn_01x09_Pin	Connector_PinHeader_2.54mm:PinHeader_1x09_P2.54mm_Vertical
-10	R1, R2, R6	3	10K	Resistor_SMD:R_0805_2012Metric
-11	R3, R4	2	4.7K	Resistor_SMD:R_0805_2012Metric
-12	R5, R7	2	330	Resistor_SMD:R_0805_2012Metric
-13	U1, U3	2	24LC1025	Package_SO:SOIC-8_5.23x5.23mm_P1.27mm
-14	U2	1	DS1337S_	Project_Libraries:SOIC127P600X175-8N
-15	U4	1	ATMEGA328P-AU	Project_Libraries:QFP80P900X900X120-32N
-16	Y1	1	32.768 KHz	Crystal:Crystal_SMD_5032-2Pin_5.0x3.2mm_HandSoldering
-17	Y2	1	16 MHz	Crystal:Crystal_SMD_5032-2Pin_5.0x3.2mm_HandSoldering
 ![image](https://github.com/DevMajed/Dattalogger_Board/assets/66625688/7aab2fb6-d9c1-4db3-83a2-ff03075fc0a7)
 
