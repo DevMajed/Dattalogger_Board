@@ -59,15 +59,15 @@ Communication Protocols: I2C, UART
 Programming Language: C/C++  
 
 ## PCB Specifications:  
-**Sginals Track width :**
+**Sginals Track width :**  
 0.25 mm  
-**VCC/GND Track width :** 
+**VCC/GND Track width :**   
 0.35 mm  
-**Signal Layers:** 
-Top F.Cu + Ln2.Cu  
+**Signal Layers:**   
+Top F.Cu + Ln2.Cu    
 **Power Layer  :**
 Ln1.Cu with Copper fills  
-**Ground Layer :**
+**Ground Layer :**  
 Bottom B.Cu with Copper fills
 
 ## BOM : Bill of materials
