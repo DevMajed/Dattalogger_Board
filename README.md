@@ -45,7 +45,7 @@ GPIO: General-purpose input/output for additional peripherals.
 * The 16 MHz crystal oscillator provides the main clock signal for the ATmega328-AU, ensuring proper execution of instructions.  
 * Connectors facilitate external communication and programming, enhancing the project's versatility.  
 
-**## Specifications:**
+## Specifications:  
 Microcontroller: ATmega328-AU  
 EEPROM: 24LC1025  
 Real-Time Clock: DS1337S  
