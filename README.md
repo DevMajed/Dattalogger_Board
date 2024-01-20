@@ -65,7 +65,7 @@ Programming Language: C/C++
 0.35 mm  
 **Signal Layers:**   
 Top F.Cu + Ln2.Cu    
-**Power Layer  :**
+**Power Layer  :**  
 Ln1.Cu with Copper fills  
 **Ground Layer :**  
 Bottom B.Cu with Copper fills
