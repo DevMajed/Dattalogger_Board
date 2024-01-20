@@ -12,7 +12,7 @@ The MCU Data Logger is designed to log data from various sensors or peripherals 
 The project incorporates features such as external EEPROM memory (24LC1025), a real-time clock (DS1337S), and essential connectors for communication and programming.
 
 
-Block Diagram / Circuit Schematic : \
+# Block Diagram / Circuit Schematic : \
 <img width="610" alt="Schematic" src="https://github.com/DevMajed/Dattalogger_Board/assets/66625688/9fec3444-7fc9-431f-9d06-08b488d1c6a3">
 
 
